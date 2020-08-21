@@ -32,6 +32,7 @@ Using Python, Pandas &amp; Matplotlib to analyze and answer business questions a
 - Labeling our graphs
 
 ---
-Author
+**Author**
+
 This project was completed by Muhammad Elkfrawy.<br>
 *Following Keith Galli's [video](https://www.youtube.com/watch?v=eMOA1pPVUc4)*
