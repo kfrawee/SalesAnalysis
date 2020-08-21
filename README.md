@@ -35,4 +35,4 @@ Using Python, Pandas &amp; Matplotlib to analyze and answer business questions a
 **Author**
 
 This project was completed by Muhammad Elkfrawy.<br>
-*Following Keith Galli's [video](https://www.youtube.com/watch?v=eMOA1pPVUc4)*
+*Following [Keith Galli](https://github.com/KeithGalli/)'s [video](https://www.youtube.com/watch?v=eMOA1pPVUc4)*
