@@ -2,7 +2,7 @@
 
 Using Python, Pandas &amp; Matplotlib to analyze and answer business questions about 12 months worth of sales data. The data contains hundreds of thousands of electronics store purchases broken down by month, product type, cost, purchase address, etc. 
 
-- **Check:** 
+**Check:** 
 - [SalesAnalysis notebook](https://github.com/kfrawee/SalesAnalysis/blob/master/SalesAnalysis.ipynb)
 - [`/data/`](https://github.com/kfrawee/SalesAnalysis/tree/master/data) for row sales data.
 - [`/img/`](https://github.com/kfrawee/SalesAnalysis/tree/master/img) exported images.
