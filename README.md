@@ -1,6 +1,6 @@
 # Sales Analysis [![Awesome](https://awesome.re/badge.svg)](https://github.com/kfrawee/SalesAnalysis) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
-Using Python, Pandas &amp; Matplotlib to analyze and answer business questions about 12 months worth of sales data. The data contains hundreds of thousands of electronics store purchases broken down by month, product type, cost, purchase address, etc. 
+Using Python, Pandas &amp; Matplotlib to analyze and answer business questions about 12 months' worth of sales data. The data contains hundreds of thousands of electronics store purchases broken down by month, product type, cost, purchase address, etc. 
 
 **Check:** 
 - [SalesAnalysis notebook](https://github.com/kfrawee/SalesAnalysis/blob/master/SalesAnalysis.ipynb)
